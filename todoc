@@ -1,0 +1,2 @@
+#!/bin/bash
+antiword -f -w 1000 $1 >> $1.txt

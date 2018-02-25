@@ -1,0 +1,14 @@
+#!/usr/bin/bash
+cd $1
+
+rm *.fls
+rm *.fdb_latexmk
+rm *.aux
+rm *.log
+rm *.synctex.gz
+rm *.snm
+rm *.toc
+rm *.nav
+rm *.out
+
+notify-send "Временные файлы успешно удалены"

@@ -1,0 +1,2 @@
+#!/bin/bash
+sudo cp -R img.svg /usr/share/icons/Vertex-Maia/devices/32x32/nm-device-wired.svg
